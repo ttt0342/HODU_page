@@ -225,7 +225,7 @@ span{
 
 .email_input_text{
     border-radius: 60px;
-    background-image: url("/images/mail.png");
+    background-image: url("https://ttt0342.github.io/HODU_page/images/mail.png");
     background-size: 24px 24px;
     background-repeat : no-repeat;
     background-position: 28px 18px;
@@ -277,7 +277,7 @@ placeholder{
     justify-content: center;
     top:0;
     left:0;
-    background-image: url("/images/modal-background.png");
+    background-image: url("https://ttt0342.github.io/HODU_page/images/modal-background.png");
     width: 600px;
     height: 400px;
     border-radius: 30px;
